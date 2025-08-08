@@ -3,7 +3,7 @@ Takes picture of current screen (Kahoot quiz screen) and automatically answers y
 Coordinates vary for different screens
 Inspiration of proj from coding sloth!
 
-
+CODE:
 ```python
 # IMPORTS ETC
 import os
